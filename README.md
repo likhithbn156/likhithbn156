@@ -24,7 +24,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithbn156&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithbn156&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=likhithbn156&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
@@ -33,8 +39,3 @@
   <img src="https://streak-stats.demolab.com/?user=likhithbn156&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likhithbn156&theme=tokyonight" alt="GitHub Trophies" />
-</p>
