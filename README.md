@@ -133,4 +133,4 @@
 ---
 
 <h3 align="center">😊 Thanks for visiting my GitHub profile!</h3>
-<h4 align="center">Keep Learning | Keep Building | Keep Growing 🚀</h4>
+<h4 align="center">Keep Learning | Keep Exploring | Keep Building | Keep Growing 🚀</h4>
