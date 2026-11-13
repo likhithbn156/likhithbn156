@@ -19,12 +19,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode" />
 </p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithbn156&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithbn156&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithbn156&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithbn156&layout=compact&theme=tokyonight" height="180" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=likhithbn156&theme=tokyonight" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
