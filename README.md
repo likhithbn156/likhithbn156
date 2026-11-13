@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Likhith B N
 
-<!--
-**likhithbn156/likhithbn156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+💻 Passionate about programming, software development and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pursuing Bachelor of Engineering in Computer Science.
+
+🚀 Interested in building practical projects and solving real-world problems.
+
+🌱 Currently exploring Full-Stack Development, Artificial Intelligence and modern software technologies.
+
+⚡ My goal is to become a skilled Software Engineer and continuously improve my development skills.
