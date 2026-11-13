@@ -16,10 +16,11 @@
 </p>
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode" />
-</p>
+## 🛠️ Languages and Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,mongodb,git,github,vscode" />
+</p>
 ## 📊 GitHub Statistics
 
 <p align="center">
